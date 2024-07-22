@@ -43,4 +43,4 @@ This Python script generates a QR code from a given website link and saves it as
 ```sh
 python qr_code.py
 Link: https://example.com
-Name of the file: example_qr.png
+Name of the file: example_qr
